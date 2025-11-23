@@ -1,5 +1,3 @@
-# Productooling
-Growing business and builders with real feedback from the market 
 # Productooling — dApp MVP
 
 Productooling is a dApp MVP for founders to collect and process product feedback using Web3.
